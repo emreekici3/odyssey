@@ -16,8 +16,12 @@ Odyssey is a lightning-fast, modern macOS video downloader built with **SwiftUI*
 2. Download the latest `Odyssey.dmg`.
 3. Drag **Odyssey** to your `Applications` folder.
 
-> **Note:** Since the app is not notarized, you may need to right-click and select **Open** for the first time, or run:
-> `xattr -d com.apple.quarantine /Applications/Odyssey.app`
+### 🛡️ Security Note
+Since the app is not notarized by Apple, you may see a security warning on the first launch. 
+To open the app:
+1. **Right-click** on Odyssey.app in your Applications folder and select **Open**.
+2. Or run this command in Terminal to bypass the warning:
+   `xattr -d com.apple.quarantine /Applications/Odyssey.app`
 
 ## ⚠️ Legal Disclaimer & Responsibility
 

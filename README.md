@@ -5,10 +5,8 @@ Odyssey is a lightning-fast, modern macOS video downloader built with **SwiftUI*
 ## ✨ Features
 
 - **High-Speed Downloads:** Direct integration with `yt-dlp` for maximum performance.
-- **Modern UI:** Minimalist and native macOS design crafted with SwiftUI.
 - **Audio & Video:** Download high-quality videos or extract crystal-clear MP3 audio.
 - **Auto-Installer:** Built-in management for `Homebrew`, `yt-dlp`, and `ffmpeg`.
-- **Dynamic Styling:** Wallpaper-adaptive UI elements for a native feel.
 
 ## 🚀 Installation
 
@@ -30,13 +28,6 @@ By using Odyssey, you agree to the following:
 - **User Responsibility:** The user is solely responsible for any content downloaded using this software. 
 - **Copyright Compliance:** Users must ensure they have the legal right or permission from the content owner before downloading any material. This tool is intended for personal use and archival purposes only.
 - **No Liability:** The developer (@emreekici3) does not condone copyright infringement and is not liable for any misuse of the software or violations of terms of service of third-party websites.
-
-## 🛠 Tech Stack
-
-- **Language:** Swift 6.0
-- **Framework:** SwiftUI
-- **Engine:** yt-dlp & ffmpeg
-- **Platform:** macOS 13.0+
 
 ## ⚖️ License
 

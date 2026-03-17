@@ -1,6 +1,6 @@
 # 🌌 Odyssey
 
-Odyssey is a lightning-fast, modern macOS video downloader built with **SwiftUI**. It provides a seamless downloading experience with a beautiful, dynamic dark-themed interface powered by `yt-dlp`.
+Odyssey is a lightning-fast, modern macOS video downloader built with **SwiftUI**. It provides a seamless downloading experience with a beautiful, dark-themed interface powered by `yt-dlp`.
 
 <p align="center">
   <img src="Screenshots/ss1.png" width="32%" />

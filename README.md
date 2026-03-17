@@ -14,6 +14,7 @@
 - **Pure SwiftUI:** A lightweight, native macOS interface designed for the modern desktop.
 - **Versatile Formats:** Seamlessly extract high-definition video or high-bitrate audio.
 - **Automated Setup:** Intelligent dependency management to get you started in seconds.
+  
 ## 🚀 Installation
 
 1. Go to the [Releases](https://github.com/emreekici3/odyssey/releases) page.

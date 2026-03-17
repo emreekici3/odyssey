@@ -3,9 +3,9 @@
 **Odyssey is a high-performance multimedia downloader for macOS, built with a native SwiftUI architecture. Designed for speed and minimal friction, it offers a refined dark-themed environment to archive online content with professional-grade reliability.**
 
 <p align="center">
-  <img src="Screenshots/ss1.png" width="33%" />
-  <img src="Screenshots/ss2.png" width="33%" />
-  <img src="Screenshots/ss3.png" width="33%" />
+  <img src="Screenshots/ss1.png" width="32%" />
+  <img src="Screenshots/ss2.png" width="32%" />
+  <img src="Screenshots/ss3.png" width="32%" />
 </p>
 
 ## ✨ Features
